@@ -14,7 +14,7 @@ Complete Guide to Activate Your UnitedHealthcare Card Online
 
     </div>
 
-How to Activate Your UHC Card at activate.uhc.com
+How to Activate Your UHC Card?
 -------------------------------------------------
 
 Follow these steps carefully to activate your UHC card:
@@ -28,7 +28,7 @@ Follow these steps carefully to activate your UHC card:
 - Follow the on-screen instructions
 - Your UHC card will be activated successfully
 
-How to Register for a UHC Account
+How to Register for a UHC Account?
 --------------------------------
 
 After activating your card, you need to register your online account.
@@ -42,7 +42,7 @@ After activating your card, you need to register your online account.
 - Verify your email or phone number
 - Complete the registration process
 
-How to Login to Your UHC Account
+How to Login to Your UHC Account?
 -------------------------------
 
 Once registered, you can log in anytime.
@@ -54,7 +54,7 @@ Once registered, you can log in anytime.
 - Click **Login**
 - You will be redirected to your UHC dashboard
 
-How to Check UHC Card Balance Online
+How to Check UHC Card Balance Online?
 -----------------------------------
 
 To check your UHC balance, follow these steps:

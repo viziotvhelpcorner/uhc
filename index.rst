@@ -6,7 +6,7 @@ Complete Guide to Activate Your UnitedHealthcare Card Online
     <div style="text-align: center; margin: 30px 0;">
 
 .. image:: Button.png
-   :alt: Click Here
+   :alt: Activate.uhc.com
    :target: https://pre.im/?r4Ekguug57HWe75kRasiWc3aDOHYDwrj6MXrD2d0M7OxjJcjhAoj4owo1nLZ1GksWnc
 
 

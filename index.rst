@@ -86,6 +86,7 @@ Frequently Asked Questions (FAQs)
 ---------------------------------
 
 1. **What is activate.uhc.com used for?**  
+
    activate.uhc.com is used to activate your UnitedHealthcare insurance card and manage your account online.
 
 2. **Can I activate my UHC card on mobile?**  

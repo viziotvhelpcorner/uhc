@@ -14,6 +14,7 @@ How to Activate Your UHC Card?
 -------------------------------------------------
 
 Follow these quick steps to activate your UHC card:
+
 - Open a browser on your phone or computer
 
 - Visit **activate.uhc.com**
